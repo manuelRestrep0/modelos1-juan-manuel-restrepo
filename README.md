@@ -2,3 +2,4 @@
 # Samuel Acevedo - 1001016099 - Ingeniería de sistemas
 # Duvan Camilo Yepes Guevara - 1017236128 - Ingeniería civil
 # Link video en youtube para la segunda entrega: https://youtu.be/IQST3kbduJE
+# Link video en youtube para la entrega final: https://youtu.be/RgT37xuh_sA
